@@ -1,1 +1,1 @@
-Hi Ravi, are you lookimh for new job on devops?
+Hi Ravi are you lookimh job on devops

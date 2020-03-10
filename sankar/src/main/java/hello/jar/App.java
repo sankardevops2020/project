@@ -1,13 +1,1 @@
-package hello.jar;
-
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello ravi, are you looking for devops jobs?" );
-    }
-}
+Hi Ravi, are you lookimh for new job on devops?

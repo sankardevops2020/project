@@ -1,13 +1,18 @@
-package hello.jar;
+
+package com.sample.model;
+
+
 
 /**
- * Hello world!! are u looking for a new job
- *
+
+ * Created by kasun on 5/24/17.
+
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello sankar! are u looking for a new job" );
-    }
+
+public enum LiquorType {
+
+    WINE,BEER,WHISKY
+
+
+
 }
